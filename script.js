@@ -1,2 +1,2 @@
 let nameNew = 'NataliaArsh';
-console.log(nameNew);
+console.log(typeof nameNew);
